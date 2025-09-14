@@ -1,5 +1,8 @@
+// Merge Two sorted arrays
+
 package QuestionPractices.MediumLevelQuestion;
 import java.util.Arrays;
+
 public class MergeTwoSorted {
     
 
