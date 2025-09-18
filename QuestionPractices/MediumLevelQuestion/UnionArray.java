@@ -22,6 +22,6 @@ package QuestionPractices.MediumLevelQuestion;
             if (!found) {
                 System.out.print(arr2[i] + " ");
             }
-        }
+        }  
     }
 }
